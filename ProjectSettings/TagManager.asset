@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - ground
-  - 
-  - 
-  - 
+  - Ground
+  - Clickable
+  - playerUnits
+  - enemyUnits
+  - playerBuildings
   - 
   - 
   - 
